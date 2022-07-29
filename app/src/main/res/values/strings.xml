@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Basic Unit Test - JUnit</string>
+
+    <!--Login-->
+    <string name="login">Login</string>
+
+    <string name="login_enter_email_address">Enter your Email Address</string>
+    <string name="login_enter_password">Enter your Password</string>
+
+    <string name="login_error_email_empty">Please enter Email</string>
+    <string name="login_error_email_not_valid">Please enter A valid Email</string>
+    <string name="login_error_email_password_empty">Email and Password can\'t be empty</string>
+    <string name="login_error_password_empty">Please enter Password</string>
+    <string name="login_error_password_greater_the_5_char">Please enter Password greater the 5 char</string>
+
+    <!--Main-->
+    <string name="main_login_success">Login Success!</string>
+</resources>
